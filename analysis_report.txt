@@ -1,0 +1,46 @@
+============================================================
+             WEATHER DATA ANALYSIS REPORT
+============================================================
+
+1. DATASET OVERVIEW
+----------------------------------------
+Number of records: 30
+Number of columns: 7
+Analysis period: 2026-01-01 to 2026-01-30
+
+2. KEY METRICS
+----------------------------------------
+Average Temperature: 22.37 °C
+Maximum Temperature: 31.00 °C
+Minimum Temperature: 7.00 °C
+Average Humidity: 65.80%
+Average Wind Speed: 11.83
+Maximum Wind Speed: 19.00
+Average Pressure: 1013.03
+Most Common Condition: Sunny
+Temperature-Humidity Correlation: 0.21
+
+3. WEATHER CONDITION COUNTS
+----------------------------------------
+Sunny: 12 days
+Cloudy: 10 days
+Rainy: 8 days
+
+4. KEY INSIGHTS
+----------------------------------------
+1. The average temperature during the analyzed period was 22.37 °C.
+2. The highest recorded temperature was 31.00 °C.
+3. The lowest recorded temperature was 7.00 °C.
+4. The temperature varied by 24.00 °C between the minimum and maximum values.
+5. The average humidity was 65.80%.
+6. 'Sunny' was the most frequently observed weather condition.
+7. Temperature and humidity show a weak or moderate relationship in this dataset.
+
+5. OUTPUT FILES
+----------------------------------------
+temperature_trend.png
+weather_conditions.png
+
+============================================================
+End of Report
+============================================================
